@@ -38,7 +38,8 @@ public class QLNV {
     public void xoa(String ten) {
         for (int i = 0; i < list.size(); i++) {
             if (list.get(i).getTen().equals(ten)) {
-                list.remove(list.get(i));
+                list.remove(i);
+                i--;
             }
         }
     }

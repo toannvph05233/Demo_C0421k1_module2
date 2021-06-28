@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/BTVN" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/BTVN2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/QLNV" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/managerbook" vcs="Git" />
   </component>
 </project>
